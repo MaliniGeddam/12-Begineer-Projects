@@ -3,7 +3,7 @@
 # suppose we want to create a string that says "subscribe to _____ "
 # 3 ways to do string concatention
 
-# Example:
+# 3 ways examples:
 # youtuber = input("Name of a youtuber:") # some string variable
 # print("subscribe to " + youtuber) #way1-good for short string
 # print("subscribe to {}".format(youtuber)) #way2
